@@ -1,3 +1,4 @@
+export const dynamic = 'force-dynamic';
 import OrdersComponent from '@/components/Dashboard/OrdersComponent/OrdersComponent'
 import { getOrders } from '@/action/order';
 
